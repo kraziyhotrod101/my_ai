@@ -1,3 +1,4 @@
+AI UI for Ollama on Linux
 👋 Say Hello to my_ai!
 Run awesome AI models right on your computer. It's free, it's private, and it's super easy thanks to Ollama.
 
